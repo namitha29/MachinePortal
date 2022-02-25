@@ -24,7 +24,7 @@ User:
 {
     "name" : "nami",
     "phoneNumber" : "8971137374"
-    "password": "dummypass",
+    "password": "pass",
     "email" : "nami@gmail",
     "role" : "MASTER"
 }
@@ -41,6 +41,6 @@ VirtualMachine:
 Token:
 {
     "username" : "nami",
-    "password" : "dummypass"
+    "password" : "pass"
 }
 
